@@ -1,0 +1,3 @@
+[submodule "reelscoin_back"]
+	path = reelscoin_back
+	url = https://github.com/RedDarakosha/reelscoin_back

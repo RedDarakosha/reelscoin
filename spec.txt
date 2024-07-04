@@ -1,0 +1,13 @@
+endpoints:
+    - /user/<tg_id>
+    - /user/invite_link
+
+
+    - POST /game/loot/
+
+
+    - POST /tasks/<task_id>
+    {
+        "user_id"
+    }
+
